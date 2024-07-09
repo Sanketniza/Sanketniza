@@ -31,4 +31,20 @@
         <img src="https://img.icons8.com/color/58/000000/github.png" alt="">
        <img src="https://img.icons8.com/?size=58&id=CIAZz2CYc6Kc&format=png&color=000000" alt="">
  </div>  
+
+ <h3>Connect with me</h3>
+
+  <a href="https://www.instagram.com/sanket_talekar1717/">
+      <img src="https://img.icons8.com/color/38/000000/instagram-new.png" alt="">
+   </a>
+
+   <a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
+    <img src="https://img.icons8.com/color/38/000000/linkedin.png" alt="">
+  </a>
+
+ <a href="sankettalekar897@gmail.com">
+    <img src="https://img.icons8.com/color/38/000000/email.png" alt="">
+  </a>      
+
+</div>      
   
