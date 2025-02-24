@@ -47,4 +47,31 @@
   </a>      
 
 </div>      
+
+
+<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;" >
+
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=sanketniza&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=sanketniza&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+   
+  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketniza&show_icons=true&locale=en&layout=compact" alt="sanketniza" /></p> -->
+   
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketniza&show_icons=true&locale=en" alt="sanketniza" /></p>
+   
   
+   <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketniza&" alt="sanketniza" /></p>  r-->
+
+   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=sanketniza&theme=darcula&hide_border=true&background=FFFFFF00">
+     
+</div>
+
+
+
+
+<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;">
+  <br>
+  <br>
+  
+  <a href="https://www.instagram.com/sanket_talekar1717/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</div>
