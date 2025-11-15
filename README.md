@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm Sanket Talekar (Full Stack [ MERN ] Developer ) </h1>
+<h1> Hi 👋, I'm Swaraj Bhosale (Full Stack [ MERN ] Developer ) </h1>
 
    <div class="about">
        <h3> 
